@@ -1,3 +1,5 @@
+https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk
+
 # SmartTubeNext (STN)
 
 SmartTubeNext is an advanced YouTube app for **Android TVs** and **TV boxes**, free & open source. It is not a live TV client and does not support ["YouTube TV"](https://tv.youtube.com/).
